@@ -1,0 +1,11 @@
+f f f f f f f u u u 
+f u c u e u f f f u
+f u d u u u u u f f
+f f d u f f d u u f
+u f u u f u u u u f
+f f u u f u u u u f
+f u u u f u u f f f
+f c u u f u u f u u
+f f f f f u u f f f
+f c u u u u d u u f
+f f f f f f f f f f
